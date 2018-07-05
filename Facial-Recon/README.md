@@ -36,7 +36,7 @@ In the end you get a PDF Report :)
 
 ### Automated Prequisites Installation
 ```
-wget https://raw.githubusercontent.com/CybernetiX-S3C/Facial-Recon/master/pre.sh && chmod +x pre.sh && ./pre.sh
+wget https://raw.githubusercontent.com/CybernetiX-S3C/Facial-Recon-master/master/pre.sh && chmod +x pre.sh && ./pre.sh
 ```
 
 ### Manual Prequisites Installation
@@ -84,12 +84,12 @@ Next put at least one Image of the Person you want to find in the `known` folder
 
 Then run the program ;)
 ```
-$ python3 eagle-eye.py
+$ python3 Facial-Recon.py
 ```
 
 To see a list of all available Options just type
 ```
-$ python3 eagle-eye.py -h
+$ python3 Facial-Recon.py -h
 ```
 
 *The ImageRaider Reverse Image Search can take some minutes 1-15 Minutes depending on the count of Images*
