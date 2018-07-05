@@ -36,7 +36,7 @@ In the end you get a PDF Report :)
 
 ### Automated Prequisites Installation
 ```
-wget https://raw.githubusercontent.com/CybernetiX-S3C/Facial-Recon/master/pre.sh && chmod +x pre.sh && ./pre.sh
+wget https://raw.githubusercontent.com/CybernetiX-S3C/Facial-Recon-master/master/pre.sh && chmod +x pre.sh && ./pre.sh
 ```
 
 ### Manual Prequisites Installation
@@ -96,5 +96,5 @@ $ python3 eagle-eye.py -h
 
 
 ## Screenshots?
-[Example Report](https://github.com/CybernetiX-S3C/Facial-Recon/blob/master/Example.pdf) (Used one Image of Emeraude Toubia)
+[Example Report](https://github.com/CybernetiX-S3C/Facial-Recon-master/blob/master/Example.pdf) (Used one Image of Emeraude Toubia)
 
