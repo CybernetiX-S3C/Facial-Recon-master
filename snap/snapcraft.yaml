@@ -1,0 +1,15 @@
+
+  name: facial-recon
+  version: '1.0'
+  summary: This tool is used to match pictures to social media platforms using names as well.
+  description: |
+    This is a tool used for facial reconigntion by matching pictures and a name to online social media platforms.
+
+  grade: stable
+  confinement: stricts
+
+  parts:
+    my-part:
+      # See 'snapcraft plugins'
+      plugin: nil
+  
