@@ -6,7 +6,7 @@
     This is a tool used for facial reconigntion by matching pictures and a name to online social media platforms.
 
   grade: stable
-  confinement: stricts
+  confinement: strict
 
   parts:
     my-part:
